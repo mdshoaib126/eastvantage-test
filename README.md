@@ -75,10 +75,10 @@ This project is a full-stack web application built with Laravel 8 and React.js. 
 
 ### Frontend Setup (React)
 
-1. **Navigate to the `frontend` directory:**
+1. **Navigate to the `react-frontend` directory:**
 
     ```bash
-    cd frontend
+    cd react-frontend
     ```
 
 2. **Install JavaScript dependencies:**
